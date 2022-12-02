@@ -1,4 +1,4 @@
-
+Hey, I'm Qurb E Muhammad Syed. I'm a first-year student at Carleton University and I'm studying Software Engineering.
 
 <!---
 
