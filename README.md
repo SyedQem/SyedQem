@@ -21,3 +21,12 @@
 
 ---
 
+## 💼 What I'm Building
+
+**Darwin** — P2P campus marketplace for Canadian university students (Founding team of 5)
+
+**Vesper Works** — Software venture studio shipping products
+
+**Builders Collective Ottawa** - Community for founders and builders within Ottawa.
+
+---
