@@ -17,7 +17,7 @@
 ---
 
 ## 🧰 Tech Stack
-<img src="https://skillicons.dev/icons?i=html,js,ts,tailwind,astro,react,next,nodejs,python,c,go,java,git,github,postgres,docker,gcp,mysql,postgres,sqlite,netlify,supabase,vercel," />
+<img src="https://skillicons.dev/icons?i=html,js,ts,tailwind,astro,react,next,nodejs,python,c,cpp,bash,go,java,git,github,postgres,docker,gcp,mysql,postgres,sqlite,netlify,supabase,vercel," />
 
 ---
 
